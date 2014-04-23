@@ -16,7 +16,7 @@ else {
     console.log("PLAY ON BABY.");
 }
 
-console.log("You're waiting in line for ice cream at a carnival on a hotass day.'");
+console.log("You're waiting in line for ice cream at a carnival on a hotass day.");
 
 console.log("Suddenly, a punky-looking kid yells out, 'Do you want to fight?!'");
 
