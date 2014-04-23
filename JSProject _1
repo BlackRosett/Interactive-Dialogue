@@ -1,0 +1,39 @@
+if(confirm("Are you ready to play?")) {
+    console.log("GOOD. GET YOSELF READY.");
+}   
+else {
+    confirm("Are you ready to play?");
+    console.log("Too bad. You're playing.");
+}
+
+var age = prompt("What's your age?");
+
+if (age < 18) {
+    console.log("You's a youngin. I take no responsibility for you.");
+}
+
+else {
+    console.log("PLAY ON BABY.");
+}
+
+console.log("You're waiting in line for ice cream at a carnival on a hotass day.'");
+
+console.log("Suddenly, a punky-looking kid yells out, 'Do you want to fight?!'");
+
+var userAnswer = prompt("Do you want to fight this punky-looking kid?");
+
+if (userAnswer === "yes") {
+    console.log("You guys engage in a cat fight while I eat both of your guys' ice cream.");
+}
+else {
+    console.log("You turn around just enough to kill him with the daggers shooting out of your eyes.");
+}
+
+var feedback = prompt("What would you rate my game out of 10?");
+
+if (feedback > 7) {
+    console.log("THANKS. YOU'RE THE BEST.");
+}
+else {
+    console.log("fackyoubye.");
+}
