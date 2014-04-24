@@ -2,6 +2,8 @@
 //Author: Lisa Huang
 //Date: 4/22/14
 
+/* WARNING: INAPPROPRIATE LANGUAGE (FOR THOSE UNDER THE AGE OF 13) USED */
+
 if(confirm("Are you ready to play?")) {
     console.log("GOOD. GET YOSELF READY.");
 }   
