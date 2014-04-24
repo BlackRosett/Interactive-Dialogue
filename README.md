@@ -1,4 +1,4 @@
-Small-Projects: I MADE SOME THINGS!
+Interactive Dialogue
 ==============
 
-Small personal projects I made (most of them inspired by Codeacademy).
+My first project made with JavaScript (inspired by Codeacademy).
