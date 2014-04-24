@@ -1,3 +1,7 @@
+//File: Interactive Dialogue
+//Author: Lisa Huang
+//Date: 4/22/14
+
 if(confirm("Are you ready to play?")) {
     console.log("GOOD. GET YOSELF READY.");
 }   
